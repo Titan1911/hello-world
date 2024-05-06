@@ -31,12 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
-   <h1>This is a test text for Jenkins Tomcat deployement</h1>
-   <h1>This is again a new change and some more changes</h1>
-   <h1>and more changes</h1>
-   <h1>some more new changes</h1>
-   <h1>will continue to make changes and push to github</h1>
-   <h1>more commits</h1>
+   <h1>This is the last commit maybe</h1>
   
 </form>
